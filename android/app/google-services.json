@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241934169623",
+    "project_id": "noteits",
+    "storage_bucket": "noteits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241934169623:android:f650440ad4e7a859bece52",
+        "android_client_info": {
+          "package_name": "com.bkcreations.noteits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1u9w_s3CftP8Q-Pxeyv_y2DeFdJbFU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
